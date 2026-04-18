@@ -2,7 +2,7 @@
 [Youtube Lecture](https://www.youtube.com/watch?v=LMbGZOU-dtA)
 [Google Drive Folder](https://drive.google.com/drive/folders/16wPAyRIORMcvGEAW9ScB14-TZe_PPSDv)
 
-Hey there, Python enthusiasts! Are you ready to take your coding skills to the next level? In this comprehensive video, we're diving headfirst into the world of Object-Oriented Programming (OOP) - a fundamental paradigm that will revolutionize the way you write and structure your Python programs. 
+Hey there, Python enthusiasts! Are you ready to take your coding skills to the next level? In this comprehensive video, we're diving headfirst into the world of Object-Oriented Programming (OOP) - a fundamental paradigm that will revolutionize the way you write and structure your Python programs.
 
 Get ready to unlock a whole new dimension of Python mastery!
 
